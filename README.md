@@ -43,4 +43,4 @@ To validate the full integration of the pipeline, a program calculating the firs
 * **HDL:** Verilog
 * **Simulator:** Icarus Verilog
 * **Waveform Viewer:** GTKWave
-* **Synthesis & Timing:** Intel Quartus Prime
+* **Synthesis & Timing:** Intel Quartus 
